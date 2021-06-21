@@ -1,0 +1,177 @@
+/* for desktop view */
+@media (min-width: 992px ) {
+    body {
+        font-family: cursive;
+        font-weight: bold;
+        text-align: center;
+        margin: 10px;
+        padding: 10px;
+    }
+    
+    section {
+        border: 1px solid black;
+        margin: 10px;
+        padding: 0px;
+        background-color: grey;
+        
+    }
+    header {
+        font-size: 1.75em;
+        margin-bottom: 20px;
+        padding: 10px;
+    
+    }
+    
+    h1 {
+        margin: 0px;
+        float: right;
+        text-align: right;
+        border: 1px solid black;
+    }
+    div {
+        padding-top: 30px;
+    }
+    
+    .chicken {
+        background-color: pink;
+        
+    }
+    .beef {
+        background-color: red;
+    
+    }
+    .sushi {
+        background-color: yellow;
+    
+    }
+
+    .b1 {
+        width: 31%;
+        float: left;
+    }
+    .b2 {
+        width: 31%;
+        float: left;
+    }
+    .b3 {
+        width: 31%;
+        float: left;
+    }
+    
+}
+
+/* for tablet view */
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        font-family: cursive;
+        font-weight: bold;
+        text-align: center;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    header {
+        font-size: 1.75em;
+        margin-bottom: 20px;
+        padding: 10px;
+    
+    }
+    
+    section {
+        border: 1px solid black;
+        margin: 1%;
+        padding: 0px;
+        background-color: grey;
+        box-sizing: border-box;
+        
+    }
+        
+    h1 {
+        margin: 0px;
+        float: right;
+        text-align: right;
+        border: 1px solid black;
+    }
+    div {
+        padding-top: 30px;
+    }
+    
+    .chicken {
+        background-color: pink;
+        
+    }
+    .beef {
+        background-color: red;
+    
+    }
+    .sushi {
+        background-color: yellow;
+    
+    }
+
+    .b1 {
+        width: 48%;
+        float: left;
+    }
+    .b2 {
+        width: 48%;
+        float: left;
+    }
+    .b3 {
+        width: 98%;
+        clear: left;
+        float: left;
+    }
+    
+}
+
+
+
+/* for mobile view */
+@media (max-width: 767px) {
+    body {
+        font-family: cursive;
+        font-weight: bold;
+        text-align: center;
+        margin: 10px;
+        padding: 10px;
+    }
+    header {
+        font-size: 1.75em;
+        margin-bottom: 20px;
+        padding: 10px;
+    
+    }
+    section {
+        border: 1px solid black;
+        margin: 10px;
+        padding: 0px;
+        background-color: grey;
+        
+    }
+    
+    h1 {
+        margin: 0px;
+        float: right;
+        text-align: right;
+        border: 1px solid black;
+    }
+    div {
+        padding-top: 30px;
+    }
+    
+    .chicken {
+        background-color: pink;
+        
+    }
+    .beef {
+        background-color: red;
+    
+    }
+    .sushi {
+        background-color: yellow;
+    
+    }
+    
+} 
+

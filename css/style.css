@@ -23,7 +23,8 @@
     }
     
     h1 {
-        margin: 0px;
+        margin-top: -1px;
+        margin-right: -1px;
         float: right;
         text-align: right;
         border: 1px solid black;
@@ -87,7 +88,8 @@
     }
         
     h1 {
-        margin: 0px;
+        margin-top: -1px;
+        margin-right: -1px;
         float: right;
         text-align: right;
         border: 1px solid black;
@@ -151,7 +153,8 @@
     }
     
     h1 {
-        margin: 0px;
+        margin-top: -1px;
+        margin-right: -1px;
         float: right;
         text-align: right;
         border: 1px solid black;

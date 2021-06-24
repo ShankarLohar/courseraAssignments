@@ -10,6 +10,10 @@ body {
     padding: 1em;
     
 }
+.head{
+    margin: 0px;
+    padding: 0px;
+}
 
 .container {
     font-size: 2em;
@@ -17,6 +21,8 @@ body {
     margin: auto;
     padding: 0em;
 }
+
+
 
 
 .ourmenu {

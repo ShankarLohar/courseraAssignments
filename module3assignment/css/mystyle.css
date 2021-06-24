@@ -95,5 +95,8 @@ div {
 /* for mobile view */
 @media (max-width: 767px) {
     
+    a {
+        text-align: center;
+    }
     
 } 

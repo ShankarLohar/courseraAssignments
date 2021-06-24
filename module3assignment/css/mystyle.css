@@ -8,6 +8,7 @@ body {
 #header-nav{
     background-color: grey;
     padding: 1em;
+    border-radius: 0px;
     
 }
 .head{
@@ -20,6 +21,16 @@ body {
     text-align: left;
     margin: auto;
     padding: 0em;
+}
+
+.menuitem{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: grey;
+	border-bottom: 1px solid white;
+	color: black;
+	display: block;
 }
 
 
